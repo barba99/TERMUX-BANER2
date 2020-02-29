@@ -1,5 +1,7 @@
 # TERMUX-BANER2
-Escrip para editar tu baner en termux ocupa de los recursos de termux   
+
+
+15 different ways to edit the start on your termux
 
 
   
@@ -8,10 +10,8 @@ Escrip para editar tu baner en termux ocupa de los recursos de termux
 pkg update ; pkg install wget ; wget https://raw.githubusercontent.com/barba99/TERMUX-BANER2/master/baner.sh ; chmod +x baner.sh ; bash baner.sh
 ```
 
-LIKE SI TE GUSTO!!
+
+#If you liked me, give me a star
 
 
 
-tutorial 
-
-https://youtu.be/EuQ_IKJUpFU
